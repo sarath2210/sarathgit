@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
 <body>
-update 1
+update 1: removing config
 </body>
 </html>
